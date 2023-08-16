@@ -1,1 +1,1 @@
-Hello World saja.
+Hello World! Merupakan pengantar programming.
