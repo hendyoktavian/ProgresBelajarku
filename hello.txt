@@ -5,3 +5,5 @@ Merupakan pengantar programming.
 Paling dasar.
 
 Tambahan sedikit.
+
+Sedikit tidak berpengaruh.
